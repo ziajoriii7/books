@@ -4,3 +4,6 @@
 [submodule "CLRS"]
 	path = CLRS
 	url = https://github.com/ziajoriii7/CLRS
+[submodule "SICP"]
+	path = SICP
+	url = https://github.com/ziajoriii7/SICP

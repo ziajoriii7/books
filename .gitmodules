@@ -1,3 +1,6 @@
 [submodule "K-R-C"]
 	path = K-R-C
 	url = https://github.com/ziajoriii7/K-R-C
+[submodule "CLRS"]
+	path = CLRS
+	url = https://github.com/ziajoriii7/CLRS
